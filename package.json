@@ -24,6 +24,7 @@
     "not op_mini all"
   ],
   "devDependencies": {
-    "snazzy": "^8.0.0"
+    "snazzy": "^8.0.0",
+    "standardx": "^3.0.1"
   }
 }
